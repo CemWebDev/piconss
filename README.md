@@ -118,7 +118,7 @@ Below is a list of all available icons in the IconBurst library:
 | `jupyter`      | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/jupyter.svg" width="40">      |
 | `kotlin`       | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/kotlin.svg" width="40">       |
 | `less`         | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/less.svg" width="40">         |
-| `linux`        | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/less.svg" width="40">         |
+| `linux`        | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/linux.svg" width="40">         |
 | `markdown`     | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/markdown.svg" width="40">     |
 | `matlab`       | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/matlab.svg" width="40">       |
 | `mocha`        | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/mocha.svg" width="40">        |
