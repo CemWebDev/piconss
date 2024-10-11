@@ -1,6 +1,6 @@
 {
   "name": "icon-burst",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of customizable SVG icons for dark, light, and default themes.",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   ],
   "author": "CemWebDev",
   "type": "commonjs",
-  "dependencies": {
+  "devDependencies": {
     "express": "^4.21.1"
   }
 }

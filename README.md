@@ -1,85 +1,199 @@
-| Icon Name      | Icon Image                                            |
-| -------------- | ----------------------------------------------------- |
-| `angularjs`    | <img src="icons/default/angularjs.svg" width="40">    |
-| `aws`          | <img src="icons/default/aws.svg" width="40">          |
-| `azure`        | <img src="icons/default/azure.svg" width="40">        |
-| `babel`        | <img src="icons/default/babel.svg" width="40">        |
-| `blender`      | <img src="icons/default/blender.svg" width="40">      |
-| `bootstrap`    | <img src="icons/default/bootstrap.svg" width="40">    |
-| `c`            | <img src="icons/default/c.svg" width="40">            |
-| `clion`        | <img src="icons/default/clion.svg" width="40">        |
-| `cpp`          | <img src="icons/default/cplusplus.svg" width="40">    |
-| `csharp`       | <img src="icons/default/csharp.svg" width="40">       |
-| `css3`         | <img src="icons/default/css3.svg" width="40">         |
-| `dart`         | <img src="icons/default/dart.svg" width="40">         |
-| `django`       | <img src="icons/default/django.svg" width="40">       |
-| `docker`       | <img src="icons/default/docker.svg" width="40">       |
-| `dotnet`       | <img src="icons/default/dotnet.svg" width="40">       |
-| `electron`     | <img src="icons/default/electron.svg" width="40">     |
-| `expressDark`  | <img src="icons/dark/expressDark.svg" width="40">     |
-| `expressLight` | <img src="icons/light/expressLight.svg" width="40">   |
-| `figma`        | <img src="icons/default/figma.svg" width="40">        |
-| `firebase`     | <img src="icons/default/firebase.svg" width="40">     |
-| `flask`        | <img src="icons/default/flask.svg" width="40">        |
-| `flutter`      | <img src="icons/default/flutter.svg" width="40">      |
-| `gatsby`       | <img src="icons/default/gatsby.svg" width="40">       |
-| `git`          | <img src="icons/default/git.svg" width="40">          |
-| `github`       | <img src="icons/default/github.svg" width="40">       |
-| `go`           | <img src="icons/default/go.svg" width="40">           |
-| `graphql`      | <img src="icons/default/graphql.svg" width="40">      |
-| `haskell`      | <img src="icons/default/haskell.svg" width="40">      |
-| `html5`        | <img src="icons/default/html5.svg" width="40">        |
-| `intellij`     | <img src="icons/default/intellij.svg" width="40">     |
-| `java`         | <img src="icons/default/java.svg" width="40">         |
-| `javascript`   | <img src="icons/default/javascript.svg" width="40">   |
-| `jenkins`      | <img src="icons/default/jenkins.svg" width="40">      |
-| `jest`         | <img src="icons/default/jest.svg" width="40">         |
-| `jira`         | <img src="icons/default/jira.svg" width="40">         |
-| `jquery`       | <img src="icons/default/jquery.svg" width="40">       |
-| `julia`        | <img src="icons/default/julia.svg" width="40">        |
-| `jupyter`      | <img src="icons/default/jupyter.svg" width="40">      |
-| `kotlin`       | <img src="icons/default/kotlin.svg" width="40">       |
-| `less`         | <img src="icons/default/less.svg" width="40">         |
-| `linux`        | <img src="icons/default/linux.svg" width="40">        |
-| `markdown`     | <img src="icons/default/markdown.svg" width="40">     |
-| `matlab`       | <img src="icons/default/matlab.svg" width="40">       |
-| `mocha`        | <img src="icons/default/mocha.svg" width="40">        |
-| `mongodb`      | <img src="icons/default/mongodb.svg" width="40">      |
-| `mysql`        | <img src="icons/default/mysql.svg" width="40">        |
-| `nextjs`       | <img src="icons/default/nextjs.svg" width="40">       |
-| `nodejs`       | <img src="icons/default/nodejs.svg" width="40">       |
-| `numpy`        | <img src="icons/default/numpy.svg" width="40">        |
-| `nuxtjs`       | <img src="icons/default/nuxtjs.svg" width="40">       |
-| `opencv`       | <img src="icons/default/opencv.svg" width="40">       |
-| `perl`         | <img src="icons/default/perl.svg" width="40">         |
-| `php`          | <img src="icons/default/php.svg" width="40">          |
-| `postcss`      | <img src="icons/default/postcss.svg" width="40">      |
-| `postgresql`   | <img src="icons/default/postgresql.svg" width="40">   |
-| `postman`      | <img src="icons/default/postman.svg" width="40">      |
-| `prettier`     | <img src="icons/default/prettier.svg" width="40">     |
-| `prisma`       | <img src="icons/default/prisma.svg" width="40">       |
-| `pycharm`      | <img src="icons/default/pycharm.svg" width="40">      |
-| `python`       | <img src="icons/default/python.svg" width="40">       |
-| `pytorch`      | <img src="icons/default/pytorch.svg" width="40">      |
-| `r`            | <img src="icons/default/r.svg" width="40">            |
-| `reactjs`      | <img src="icons/default/reactjs.svg" width="40">      |
-| `reactrouter`  | <img src="icons/default/reactrouter.svg" width="40">  |
-| `redux`        | <img src="icons/default/redux.svg" width="40">        |
-| `ruby`         | <img src="icons/default/ruby.svg" width="40">         |
-| `rust`         | <img src="icons/default/rust.svg" width="40">         |
-| `sass`         | <img src="icons/default/sass.svg" width="40">         |
-| `scala`        | <img src="icons/default/scala.svg" width="40">        |
-| `sketch`       | <img src="icons/default/sketch.svg" width="40">       |
-| `sqlite`       | <img src="icons/default/sqlite.svg" width="40">       |
-| `svelte`       | <img src="icons/default/svelte.svg" width="40">       |
-| `swift`        | <img src="icons/default/swift.svg" width="40">        |
-| `tailwindcss`  | <img src="icons/default/tailwindcss.svg" width="40">  |
-| `tensorflow`   | <img src="icons/default/tensorflow.svg" width="40">   |
-| `threejsDark`  | <img src="icons/dark/threejsDark.svg" width="40">     |
-| `threejsLight` | <img src="icons/light/threejsLight.svg" width="40">   |
-| `typescript`   | <img src="icons/default/typescript.svg" width="40">   |
-| `unity`        | <img src="icons/default/unity.svg" width="40">        |
-| `unrealengine` | <img src="icons/default/unrealengine.svg" width="40"> |
-| `vscode`       | <img src="icons/default/vscode.svg" width="40">       |
-| `vuejs`        | <img src="icons/default/vuejs.svg" width="40">        |
-| `webstorm`     | <img src="icons/default/webstorm.svg" width="40">     |
+# IconBurst
+
+### A collection of customizable SVG icons for dark, light and default.
+
+## Table of contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Available Icons](#available-icons)
+- [Contributing](#contributing)
+
+## Installation
+
+You can access IconBurst icons via **unpkg** or use them locally by cloning the repository.
+
+You can use IconBurst directly in your HTML or JavaScript applications without any installation:
+
+```html
+<img
+  src="https://unpkg.com/icon-burst@latest/icons/default/angularjs.svg"
+  width="40"
+  alt="AngularJS Icon"
+/>
+```
+
+## Usage
+
+You can customize the icons using different themes. Currently, the available themes are:
+
+`default`
+`light`
+`dark`
+
+To use a specific icon, just provide the correct path as shown below:
+
+```html
+<img
+  src="https://unpkg.com/icon-burst@latest/icons/default/angularjs.svg"
+  width="40"
+  alt="AngularJS Icon"
+/>
+
+<img
+  src="https://unpkg.com/icon-burst@latest/icons/dark/expressDark.svg"
+  width="40"
+  alt="Express Dark Icon"
+/>
+
+<img
+  src="https://unpkg.com/icon-burst@latest/icons/light/expressLight.svg"
+  width="40"
+  alt="Express Light Icon"
+/>
+```
+
+## Using with unpkg
+
+Add the following link to your HTML or MD file to use icons from unpkg:
+
+```html
+<img
+  src="https://unpkg.com/icon-burst@latest/icons/default/iconname.svg"
+  alt="Icon Name"
+/>
+<img
+  src="https://unpkg.com/icon-burst@latest/icons/dark/iconnameDark.svg"
+  alt="Icon Name"
+/>
+<img
+  src="https://unpkg.com/icon-burst@latest/icons/light/iconnameLight.svg"
+  alt="Icon Name"
+/>
+```
+
+## Available Icons
+
+Below is a list of all available icons in the IconBurst library:
+
+| Icon Name      | Icon Image                                                                               |
+| -------------- | ---------------------------------------------------------------------------------------- |
+| `angularjs`    | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/angularjs.svg" width="40">    |
+| `aws`          | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/aws.svg" width="40">          |
+| `azure`        | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/azure.svg" width="40">        |
+| `babel`        | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/babel.svg" width="40">        |
+| `blender`      | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/blender.svg" width="40">      |
+| `bootstrap`    | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/bootstrap.svg" width="40">    |
+| `c`            | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/c.svg" width="40">            |
+| `clion`        | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/clion.svg" width="40">        |
+| `cpp`          | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/cplusplus.svg" width="40">    |
+| `csharp`       | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/csharp.svg" width="40">       |
+| `css3`         | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/css3.svg" width="40">         |
+| `dart`         | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/dart.svg" width="40">         |
+| `django`       | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/django.svg" width="40">       |
+| `docker`       | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/docker.svg" width="40">       |
+| `dotnet`       | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/dotnet.svg" width="40">       |
+| `electron`     | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/electron.svg" width="40">     |
+| `expressDark`  | <img src="https://unpkg.com/icon-burst@1.0.0/icons/dark/expressDark.svg" width="40">     |
+| `expressLight` | <img src="https://unpkg.com/icon-burst@1.0.0/icons/light/expressLight.svg" width="40">   |
+| `figma`        | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/figma.svg" width="40">        |
+| `firebase`     | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/firebase.svg" width="40">     |
+| `flask`        | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/flask.svg" width="40">        |
+| `flutter`      | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/flutter.svg" width="40">      |
+| `gatsby`       | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/gatsby.svg" width="40">       |
+| `git`          | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/git.svg" width="40">          |
+| `github`       | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/github.svg" width="40">       |
+| `go`           | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/go.svg" width="40">           |
+| `graphql`      | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/graphql.svg" width="40">      |
+| `haskell`      | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/haskell.svg" width="40">      |
+| `html5`        | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/html5.svg" width="40">        |
+| `intellij`     | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/intellij.svg" width="40">     |
+| `java`         | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/java.svg" width="40">         |
+| `javascript`   | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/javascript.svg" width="40">   |
+| `jenkins`      | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/jenkins.svg" width="40">      |
+| `jest`         | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/jest.svg" width="40">         |
+| `jira`         | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/jira.svg" width="40">         |
+| `jquery`       | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/jquery.svg" width="40">       |
+| `julia`        | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/julia.svg" width="40">        |
+| `jupyter`      | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/jupyter.svg" width="40">      |
+| `kotlin`       | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/kotlin.svg" width="40">       |
+| `less`         | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/less.svg" width="40">         |
+| `linux`        | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/less.svg" width="40">         |
+| `markdown`     | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/markdown.svg" width="40">     |
+| `matlab`       | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/matlab.svg" width="40">       |
+| `mocha`        | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/mocha.svg" width="40">        |
+| `mongodb`      | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/mongodb.svg" width="40">      |
+| `mysql`        | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/mysql.svg" width="40">        |
+| `nextjs`       | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/nextjs.svg" width="40">       |
+| `nodejs`       | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/nodejs.svg" width="40">       |
+| `numpy`        | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/numpy.svg" width="40">        |
+| `nuxtjs`       | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/nuxtjs.svg" width="40">       |
+| `opencv`       | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/opencv.svg" width="40">       |
+| `perl`         | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/perl.svg" width="40">         |
+| `php`          | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/php.svg" width="40">          |
+| `postcss`      | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/postcss.svg" width="40">      |
+| `postgresql`   | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/postgresql.svg" width="40">   |
+| `postman`      | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/postman.svg" width="40">      |
+| `prettier`     | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/prettier.svg" width="40">     |
+| `prisma`       | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/prisma.svg" width="40">       |
+| `pycharm`      | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/pycharm.svg" width="40">      |
+| `python`       | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/python.svg" width="40">       |
+| `pytorch`      | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/pytorch.svg" width="40">      |
+| `r`            | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/r.svg" width="40">            |
+| `reactjs`      | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/reactjs.svg" width="40">      |
+| `reactrouter`  | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/reactrouter.svg" width="40">  |
+| `redux`        | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/redux.svg" width="40">        |
+| `ruby`         | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/ruby.svg" width="40">         |
+| `rust`         | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/rust.svg" width="40">         |
+| `sass`         | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/sass.svg" width="40">         |
+| `scala`        | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/scala.svg" width="40">        |
+| `sketch`       | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/sketch.svg" width="40">       |
+| `sqlite`       | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/sqlite.svg" width="40">       |
+| `svelte`       | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/svelte.svg" width="40">       |
+| `swift`        | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/swift.svg" width="40">        |
+| `tailwindcss`  | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/tailwindcss.svg" width="40">  |
+| `tensorflow`   | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/tensorflow.svg" width="40">   |
+| `threejsDark`  | <img src="https://unpkg.com/icon-burst@1.0.0/icons/dark/threejsDark.svg" width="40">     |
+| `threejsLight` | <img src="https://unpkg.com/icon-burst@1.0.0/icons/light/threejsLight.svg" width="40">   |
+| `typescript`   | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/typescript.svg" width="40">   |
+| `unity`        | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/unity.svg" width="40">        |
+| `unrealengine` | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/unrealengine.svg" width="40"> |
+| `vscode`       | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/vscode.svg" width="40">       |
+| `vuejs`        | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/vuejs.svg" width="40">        |
+| `webstorm`     | <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/webstorm.svg" width="40">     |
+
+## Contributing
+
+We appreciate your contributions to IconBurst! To contribute, follow these steps:
+
+1.  **Fork the repository:**
+    Go to the [IconBurst repository](https://github.com/CemWebDev/IconBurst) and click the "Fork" button.
+
+2.  **Clone your fork:**
+    After forking, clone the repository to your local machine using the following command:
+
+    ```bash
+    git clone https://github.com/your-username/IconBurst.git
+    ```
+
+3.  **Create a new branch** Create a new branch where you can make your changes. Use a descriptive branch name:
+
+    ```bash
+    git checkout -b my-new-feature
+    ```
+
+4.  **Make your changes** Make the necessary changes or additions to the icons or code.
+
+5.  **Commit your changes** After making your changes, commit them with a clear and concise message:
+
+    ```bash
+      git add .
+      git commit -m "Add new icon for xyz"
+    ```
+
+6. **Push to your fork:** Push your changes to the branch on your fork:
+    ```bash
+      git push origin my-new-feature
+    ```
+
+7. **Submit a pull request:** Go back to the original repository and create a pull request from your branch. Be sure to provide a clear explanation of the changes you've made.
