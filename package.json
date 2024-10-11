@@ -1,11 +1,19 @@
 {
   "name": "icon-burst",
   "version": "1.0.0",
-  "description": "simple icon library",
+  "description": "A collection of customizable SVG icons for dark, light, and default themes.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
+  "keywords": [
+    "icons",
+    "svg",
+    "web-icons",
+    "icon-pack",
+    "icon-library",
+    "icon-burst"
+  ],
   "author": "CemWebDev",
   "type": "commonjs",
   "dependencies": {
