@@ -1,6 +1,7 @@
 {
   "name": "icon-burst",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "license": "MIT",
   "description": "A collection of customizable SVG icons for dark, light, and default themes.",
   "main": "index.js",
   "scripts": {
