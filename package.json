@@ -19,9 +19,12 @@
     "icons",
     "svg",
     "web-icons",
-    "icon-pack",
+    "ui-icons",
     "icon-library",
-    "icon-burst"
+    "piconss",
+    "piconss-icons",
+    "dark mode icons",
+    "light mode icons"
   ],
   "author": "CemWebDev",
   "type": "commonjs",
