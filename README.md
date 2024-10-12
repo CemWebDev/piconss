@@ -1,4 +1,4 @@
-# IconBurst
+# piconss
 
 ### A collection of customizable SVG icons for dark, light and default.
 
@@ -11,9 +11,9 @@
 
 ## Installation
 
-You can access IconBurst icons via **unpkg** or use them locally by cloning the repository.
+You can access piconss icons via **unpkg** or use them locally by cloning the repository.
 
-You can use IconBurst directly in your HTML or JavaScript applications without any installation:
+You can use piconss directly in your HTML or JavaScript applications without any installation:
 
 ```html
 <img
@@ -74,7 +74,7 @@ Add the following link to your HTML or MD file to use icons from unpkg:
 
 ## Available Icons
 
-Below is a list of all available icons in the IconBurst library:
+Below is a list of all available icons in the piconss library:
 
 | Icon Name      | Icon Image                                                                            |
 | -------------- | ------------------------------------------------------------------------------------- |
@@ -164,16 +164,16 @@ Below is a list of all available icons in the IconBurst library:
 
 ## Contributing
 
-We appreciate your contributions to IconBurst! To contribute, follow these steps:
+We appreciate your contributions to piconss! To contribute, follow these steps:
 
 1.  **Fork the repository:**
-    Go to the [IconBurst repository](https://github.com/CemWebDev/IconBurst) and click the "Fork" button.
+    Go to the [piconss repository](https://github.com/CemWebDev/piconss) and click the "Fork" button.
 
 2.  **Clone your fork:**
     After forking, clone the repository to your local machine using the following command:
 
     ```bash
-    git clone https://github.com/your-username/IconBurst.git
+    git clone https://github.com/your-username/piconss.git
     ```
 
 3.  **Create a new branch** Create a new branch where you can make your changes. Use a descriptive branch name:
