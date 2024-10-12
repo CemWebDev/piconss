@@ -1,8 +1,16 @@
 {
-  "name": "icon-burst",
-  "version": "1.0.3",
+  "name": "piconss",
+  "version": "1.0.0",
   "license": "MIT",
-  "description": "A collection of customizable SVG icons for dark, light, and default themes.",
+  "description": " collection of customizable SVG icons for modern web applications.",
+  "homepage": "https://github.com/CemWebDev/piconss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CemWebDev/piconss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CemWebDev/piconss/issues"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
