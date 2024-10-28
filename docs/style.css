@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  height: 100vh;
+  background-color: #111;
+  overflow: hidden;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1300px;
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.header {
+  text-align: center;
+  padding: 1rem;
+  animation: fadeIn 2.5s ease;
+}
+
+.header h1 {
+  color: #fff;
+  font-size: 3rem;
+  background: linear-gradient(
+    90deg,
+    #ff8a00,
+    #e52e71,
+    #9b00ff,
+    #00c6ff,
+    #0072ff
+  );
+  background-size: 300%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+  overflow-wrap: break-word;
+}
+
+.header h1 span {
+  display: inline-block;
+  background: linear-gradient(90deg, #00c6ff, #0072ff);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.header .subheading {
+  color: #ccc;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
+.swiper-container {
+  width: 100%;
+  overflow: hidden;
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem 0;
+}
+
+.swiper-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.swiper-slide {
+  max-width: 3rem;
+  cursor: pointer;
+  transition: 0.3s ease all;
+}
+.swiper-slide:hover {
+  transform: scale(1.1);
+}
+
+.links {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  position: absolute;
+  bottom: 2rem;
+}
+
+.links .cta-link {
+  font-size: 1.2rem;
+  color: #ccc;
+  opacity: 0.9;
+  transition: color 0.3s ease, opacity 0.3s ease;
+}
+.links .cta-link:hover {
+  color: #fff;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@media only screen and (max-width: 48rem) {
+  .header h1 {
+    font-size: 2.5rem;
+  }
+}
+
+@media only screen and (max-width: 31.25rem) {
+  .header h1 {
+    font-size: 2rem;
+  }
+  .header .subheading {
+    font-size: 0.9rem;
+  }
+}
